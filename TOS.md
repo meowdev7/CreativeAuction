@@ -1,7 +1,7 @@
 # Terms of Service (ToS)
 
 ## Acceptance of Terms
-By using CreativeAuction (the "Bot"), you agree to these Terms of Service. If you do not agree, do not use the Bot.
+By using CreativeAuction, you agree to these Terms of Service. If you do not agree, do not use the Bot.
 
 ## User Responsibilities
 
